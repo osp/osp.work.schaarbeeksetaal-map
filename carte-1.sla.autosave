@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.0.rc6">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="1683.77952755906" PAGEHEIGHT="1190.55118110236" BORDERLEFT="5.66929133858268" BORDERRIGHT="5.66929133858268" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A2" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="4" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="6" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="1" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="0" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0" dispY="0" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#c6c3b8" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#b89b57" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#94da00" RGB="#94da00" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="expla" PARENT="Default Paragraph Style" LINESP="4.5" OpticalMargins="14" CPARENT="Default Character Style" FONT="Bitstream Charter Regular" FONTSIZE="4"/>
+        <STYLE NAME="expla-indent" PARENT="expla" FIRST="8.50393700787402" FONT="Limousine Medium"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fond de page" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <LAYERS NUMMER="1" LEVEL="1" NAME="map" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
+        <LAYERS NUMMER="2" LEVEL="2" NAME="txt" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
+        <Printer firstUse="1" toFile="233" useAltPrintCommand="22" outputSeparations="0" useSpotColors="0" useColor="228" mirrorH="83" mirrorV="0" useICC="0" doGCR="114" doClip="22" setDevParam="0" useDocBleeds="0" cropMarks="169" bleedMarks="83" registrationMarks="0" colorMarks="0" includePDFMarks="51" PSLevel="3" PDLanguage="1498112" markOffset="3.1214048806466e-308" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1683.77952755906" PAGEHEIGHT="1190.55118110236" BORDERLEFT="5.66929133858268" BORDERRIGHT="5.66929133858268" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="0" NAM="Normal" MNAM="" Size="A2" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1683.77952755906" PAGEHEIGHT="1190.55118110236" BORDERLEFT="5.66929133858268" BORDERRIGHT="5.66929133858268" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="0" NAM="" MNAM="Normal" Size="A2" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="22.6772 257.953 280.63 561.26 841.89 1122.52 1403.15 1425.83 1661.1 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="17" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="386.299842519685" YPOS="48.3477165354331" WIDTH="1391.81102362205" HEIGHT="1133.85826771654" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" wordTrack="0.98" OpticalMargins="14" COLUMNS="15" COLGAP="11.3385826771654" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 1391.81 0 1391.81 0 1391.81 0 1391.81 0 1391.81 1133.86 1391.81 1133.86 1391.81 1133.86 1391.81 1133.86 0 1133.86 0 1133.86 0 1133.86 0 1133.86 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 1391.81 0 1391.81 0 1391.81 0 1391.81 0 1391.81 1133.86 1391.81 1133.86 1391.81 1133.86 1391.81 1133.86 0 1133.86 0 1133.86 0 1133.86 0 1133.86 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="## OTHER"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="In the garden of the abbey of La Cambre, an explanation of waterworks built by monks in several abbeys in the Maelbeek valley. Name of speaker?"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="dogs sniffing the microphone"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="la différence c'est sur l'accent"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="c'est toujours rigolo parce que c'est la même chose"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="La truite de Schubert, chanté par un Maelbeekois"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Gedurende de wandeling op 24-04 toont een gids tekeningen van ficiteve visualisaties van de Maelbeek. De aligator die in de vijvers voorkwam, en andere fenomenen."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Een poging om woorden in het duits te vinden voor de 'Maalbeek'. Maar het draait uit op 'Molenbeek'"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est Schaerbeekois, ou plutôt belge, être calé dedans."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="vous montrez aux débutants? C'est plutôt des gens qui sont assez calés dedans"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Flamand-francophone ça existe ça?"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Moi je suis née sur l'ile de la Réunion où j'ai vécu jusqu'à 12 ans"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Puis on a déménagé dans les Ardennes - la 1ère fois qu'on est venu en Belgique, c'était à Hay, en Ardennes, puis on est venu à Schaerbeek, on est retourné à Marche-en-Famenne, on a fait nos études là-bas, on a dû déménager à Bruxelles vu les études secondaires qu'on n'avait pas là-bas et que il fallait tout le temps kotter ici."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je crée des sites web du côté visuel mais aussi de mise en fonction, dans le secteur non-commercial et je travaille avec des logiciels libres 100%"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="A Radio Panik on travaille aussi presque quasi exclusivement avec des logiciels libres"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je l'écoute quand je fait la vaisselle surtout. Parce que je suis là à la télévision et tout. En général, j'ai l'habitude d'écouter la radio, le matin BEL RTL. Et par la suite ça me détend, ça me fait penser à notre prophète."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Pour avoir l'esprit plus calme. Ca me détend."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Une Afghane qui chante sur le Kilim"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Explication d'un texte chanté en turc"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Moi je suis un patchwork, un morceau de ceci, un morceau de cela."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ca me dérange qu'on me demande de m'intégrer plus, ça veut dire quoi m'intégrer plus, je dois manger des frites 3 fois par semaine ou? Je ne sais pas c'est quoi."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On dit, il faut s'intégrer, ça veut dire, tendre un certain modèle. Mais c'est quoi ce modèle? Il ne me convient pas, parce que moi je ne suis ni pure marocaine ni pure belge - entre guillemets, je n'ai pas des parents, grand-parents, arrière-parents belges. Je suis pas catholique ni protestant, je suis musulmane, ce n'est pas pour ça que je ne suis pas citoyenne belge et schaerbeekoise et fière de l'être. Moi, je suis un morceau comme ça, un morceau comme ça, c'est ça qui fait ma personne."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ca a été dépassé par un autre mot qui est 'assimiler'."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On est là pour respecter la loi de la Belgique, pour respecter les habitants et tout, mais qu'on nous respecte, c'est ça, avec le foulard, avec notre religion, si j'ai du respect envers le chrétien, envers le belge, qu'on nous respecte, c'est ça. Je pense que ça doit être réciproque."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je pense que mon avenir est ici."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On entend un morceau de musique classique écrit par Bach."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Donc maintenant il y a des DJ qui font des remix avec de la musique classique."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="La meilleure baguette que je connais ici, il y a une boulangerie juste à l'arrêt de la commune, le 92. A coté de la pharmacie, il y a une boulangerie, un magasin où on vend des légumes et tout ça. Leurs baguettes c'est ... vous pouvez les garder trois quatre jours."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Arsha Harsja, Harsha nous disons HHHH, et vous n'avez pas ça, vous avez hhhhh."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Tu ne dis pas ma-kke-la, c'est juste makla, voila pas makela, et comme tu as dis ça devient mekkela."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les gâteaux de Liège on les mange quand?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ca dépend, le matin, le soir, ça dépend, quand on veut, ça ce mange plus pour le déjeuner ça."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Comment vous avez eu la recette?"/>
+            <para PARENT="expla"/>
+            <ITEXT CH="C'est d'un très vieux pâtissier, c'est papa qui a eu cette recette, c'est du père en fils. Un secret d'un monsieur qui avait un grand boulangerie à Etterbeek, papa le connait déjà depuis les années 82, 84? Depuis lors on a toujours fait des gâteaux de Liège. Mais il y a beaucoup de gens qui font des gâteaux de Liège, il y en a qui mettent des noix dedans, au lieu des raisins, des fruits confits et tout ça. Ca dépend de la façon dont il est fait. Mais le vrai gâteau de Liège, comme à Liège, fruits confits, des raisins, du sucre et de la frangipane. Ca c'est vraiment le vrai gâteau de Liège, je vous en prie."/>
+            <para PARENT="expla-indent"/>
+            <ITEXT CH="Enregistré dans un magasin, Av Reine Elisabeth, 24-06-2010"/>
+            <para PARENT="expla-indent"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est un mélange de pâtes avec de l'eau, de la semoule, on le prépare sur des plats, comme des pains Makla. Avec de l'huile."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="non, non ça c'est dit par un Berbère qui n'a jamais fait des études. Makla ça veut dire manger. C'est tout. En Berbère, moi je suis d'origine Berbère. Alors il vous a dit des bêtises. -- Mais c'est le boulanger qui nous a dit ça -- Même le boulanger ou la boulangère ... parce qu' ils ne connaissent pas le terme littéraire."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En fait c'est une dérive de la frangipane."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est le pain de la campagne c'est fait à la main, pas besoin de la machine, il y a juste de farine de l'eau de la levure et c'est tout, mais il faut avoir les mains propres, et il faut travailler aussi hein, c'est une spécialité des femmes ... . Il faut bien mélanger, plus ou moins un quart d'heure, à ce moment là tu obtiens le résultat. C'est pas fait en une minute, c'est pas comme les pains faits avec la machine."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="son du batteur"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les légumes sont meilleurs qu'au supermarché? Oui, beaucoup mieux, il m'a donné des groseilles, ma mère a fait des confitures de groseilles de l'année dernière, elles sont vraiment meilleures qu'au supermarché, on sent vraiment la différence."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Davâr. C'est un peu comme le flamand, ils ont des doubles voyelles. Pendant plusieurs centaines d'années on a utilisé la même graphie que les flamands, en mettant deux voyelles, deux 'a', deux 'o' ou deux 'u'. Depuis une cinquantaine d'années, je dirais même moins, on utilise la façon française de prolonger la voyelle en mettant l'accent circonflexe."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Remix Zenga Zenga"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Khadafi? il dit qu'il va chercher les gens qui vont lui faire du mal à lui et à son pays. Il a dit qu'il va chercher de maison en maison, de chambre en chambre, zenga zenga. Il y a des gens qui croient en lui, des gens qui croient que non, mais ça dépend de comme tu penses et ça dépend de la chaine et de la tv que tu regardes. Moi je pense que non, que il doit rester là parce que c'est son pays, il est né là-bas, il sait comme il marche le pays, tout ça, et je crois qu'il ne veut pas faire du mal. Il veut faire du bien."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est une ville avec ses hauts et ses bas. ça va ça va. Quoique ici on est tranquille comparé à certaines villes comme Paris, les autres villes qui sont beaucoup plus contrôlées, beaucoup plus strict. Ici on est quand même assez libre de faire ce qu'on veut, s'il on le fait bien. C'est une chouette ville. Je vous invite à venir visiter, venez, venez."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est un mélange de français, anglais. Din din c'est va te faire en arabe et fuck c 'est en anglais."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Son d'ambiance enregistré pendant le tournage du film La Cage RPZT"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est un mélange d'italien et de wallon"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En liégeois de schaerbeek on dit minga té"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On dit parfois aussi oufti"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Casser ses pattes arrières, bambi sur la glace."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Enregistré lors de la manifestation anti-nucléaire le 24 avril 2013."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Rap de Omariio du Bario : http://omariio-1030-officiel.skyrock.com/"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Dat is een woord dat ik ook vaak hoor bij anderstaligen en dat is een woord dat ze snel leren"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est la seule soupe que je n'ai pas goûté aujourd'hui et elle me fait bien envie."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je sais le faire à la maison avec ma mère"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Vous les mangez comment? Avec de la mayonnaise. Et vous les préparez vous-mêmes? On les prépare nous-mêmes oui."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Dat was voor mij verrassend, zeker als ik hier in het begin ben komen wonen, was het altijd een beetje vakantie in eigen land"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je fais de la prévention et je trouve que, moi, je suis depuis des années à Schaerbeek et je trouve ça fonctionne bien; j'ai fait lécole avant à la chaussée d'Helmet, une école néerlandophone, je suis bilingue, je parle italien, un peu l'espagnol et mon collègue m'apprend l'arabe."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;Tourne, açık, tourne sur ton centre, épicentre, vrille, bouleverse toi, vise la direction qu’il te faut pour prier, dire, pour vivre en toi, Seni seviyorum, toi la libre qui sait qu’elle est libre, tourne, devient autre, corps qui chante, sans musique, ni tambours, merhaba, maman, fille, vieille, sœur, elles, habibi, elles, toi, tourne encore, prosterne ton âme et lève la tête, la pleine lune se lève sur toi, prétends, n’attends plus, vive anguille, salam salam, prends ta forme, chablis, tu es celle qui s’adresse à celui qui entend, fleur noire, coiffe toi du silence mais n’accepte pas l’absence à soi, Güçlü, au plus haut de toi, au faîte de tes monts, tourne jusqu’au vent, jusqu’à ton âme.&quot;"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – Janvier 2012 - mise en ondes de Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Il est arrivé avant-hier. Il a traversé des pays qui parlent des langues qu’il n’a pas compris, mais il a continué à parler sa langue, celle de sa mère, de son père et ceux d’avant eux. Bien sûr, pour demander de l’eau ou un lit, il a appris un geste, un morceau de mot, un truc vite fait, d’utile et de pratique."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Puis il est arrivé. Évidemment, il y a toujours une période d’adaptation. Mais là, ça va très vite pour lui."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Il voit bien que s’il ne rencontre personne de sa source, de son eau, il s’assèchera, il virera au rouge. Il traverse des rues, en écoutant les gens qui traversent avec lui, d’abord arrêtés au feu, rouge. Il entend bien s’il reconnait des sons, parfois, il croit et puis pas. Souvent, les gens sont fermés, ou dans leur vie, sans que la parole émerge, filtre, jaillisse. Il a pensé leur demander son chemin, mais vu qu’il ne sait pas où il va…"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Deux jours déjà. Il a débuté une sorte de journal, sur du papier journal. Il place ici et là les mots qu’il connait au milieu de ceux qu’il ne connait pas. Ça lui fera une trace. Il pense que s’il ne trouve pas rapidement quelqu’un qui le comprend, il perdra l’usage de sa voix. Ce n’est pas tant le silence qui l’angoisse mais l’absence. L’absence de sa gorge, de sa trachée, de son ventre, de ses entrailles. Alors, il répète les chansons enfantines (un ou deux seulement, et encore avec des trous dedans), des nouvelles de la télé qu’il a retenues, et des paroles sages qu’on lui a filé quand il a dit qu’il partait de là-bas. Ça fait une litanie, une forme de prière qu’il nourrit de voix différentes. Il parle à voix haute et s’entend, ça lui fait de la compagnie. Pourvu que quelqu’un parle comme lui avec lui. Pourvu qu’à un moment, il ne croit pas qu’il est le seul et qu’en plus, il est le seul fou."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – janvier 2012 - Mise en onde de Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;L’île des Boromites est une sorte de Mont d’Athos, ce mont sur une île grecque qui est interdit aux femmes afin que les moines qui y résident ne soient pas distraits par des Lilith de comptoir, des Diane des sous-bois. L’île des Boromites n’est pas un mythe, elle existe entre les deux pôles. Bien entendu, chaque personne interrogée sur sa localisation placera sur une carte un point qui lui semblera correct. Cependant, des points seront situés à des centimètres de différence les uns des autres. Finalement, on remarque que peu de gens l’ont visitée. Les archives photographiques, les récits et les études démographiques et géographiques sont rares et encore une fois, malheureusement, peu étudiées. C’est un cas spécifique puisque l’Île des Boromites ressemble, philosophiquement, dans son énonciation, à une utopie. L’utopie étant un non-lieu, un lieu qui n’existe que dans l’esprit de ceux qui veulent y croire. Pourtant, quelques enfants et surtout, de très nombreux adolescents mentionnent cette île comme une forme abstraite de leur espoir. On peut peut-être assimiler l’Île des Boromites à la Métropole pour les habitants des territoires d’Outre-Mer ou pour les émigrés des contrées d’Afrique du Nord ou Centrale, à une Jérusalem Céleste pour les membres de la diaspora judaïque ou encore à l’Amérique pour les premiers pionniers, assoiffés d’or et de rêve."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="L’île des Boromites est cependant attribuée à la Commune de Schaerbeek. En effet, une centaine de personnes, comprise dans un échantillon socio-culturel large et valide, interrogée le long des rues des quartiers de cet espace défini, relate que cette Île serait bien adjacente à leur territoire. Des enquêtes subsidiaires sont en cours d’élaboration et seront proposées aux multiplies observatoires de réalités quantiques dès le début de l’année prochaine.&quot;"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – janvier 2012 - Mise en onde de Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;Tu y vas? Non, n’y vas pas. Prends ton chaperon, ton bazooka et ton courage à deux mains. Tu y vas? Fais attention, il y a des sauvages comme dans les séries où tout le monde a peur du loup ou de l’ours ou du crocodile. La jungle, je te dis. N’y va pas, je sais, c’est tentant. On m’a un jour parlé d’un ours qui vivait là-bas. Il parait même que la cage était déchirée à un endroit et qu’il avait vu ce trou, mais cet ours n’a jamais pensé à sortir, ni même entendu les gens qui lui montraient le trou. La commune n’a jamais réparé ce trou dans le grillage. Certains gamins un peu crétins en profitaient pour jeter des canettes et des papiers gras à travers ce trou. Tu vois, je pense que l’ours, finalement, il n’osait pas sortir. Quand on est habitué à une cage, finalement, ça devient un peu le monde connu et sortir, c’est un peu mourir. Moi, en tout cas, je prendrais pas le risque, je n’irais pas, ours ou pas ours, trou dans la cage ou pas… Mais je dis ça, je dis rien, hein.&quot;"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – janvier 2012 - Mise en onde de Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;Vous n’êtes pas arrivés à destination. Vous n’avez pas encore compris le trait, le point et la ligne. Vous devez signaler vos biens, vos sacs et vos enfants. Vous n’avez pas d’interprète si vous ne parlez pas l’anglais. Ne soyez pas insolents sinon on vous stérilise. Attendez derrière la porte, sous le radiateur. Ne pensez pas mal, c’est ce qui vous ressemble. Ne faites pas les imbéciles. Vous n’aviez qu’à pas traverser la rue sans regarder à droite, à gauche, devant et derrière. Vous devriez vous estimer heureux. Vous comprenez? Vous Com-pre-nez? Toi, comprendre? Des papiers, des papiers, mais faudrait déjà qu’on vous aime. Comprenez bien qu’on fait ça pour votre bien. Allez, circulez. Convenez-vous. Améliorez votre niveau. Faites pas les malins. Allez, allez, on y va, on y va, on écoute bien, on entend rien et on avance, oui, sur les poignets, oui, sur les chevilles… un problème?&quot;"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – janvier 2012 - Mise en ondes par Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;Tu vois comment je fais, je coupe, je lave d’abord puis je coupe, tu vois comment je fais, choubi, tu vois, tu sais, je peux Eru,, dis, toi, foufou, je veux, Haricot œil noir, beurre blanc, je prends tout, je coupe ou je tranche Kolo, comme une danse des mains, Macayabu, tire donc dessus, tire sur la peau de la malangua, comme avec le manioc quand tu l’écrases, que tu le malaxes, que tu l’étales sur ta planche, que ça recouvre, que ça se mélange un peu au jus de miondosa que tu as laissé là, dis, ndolé, tu vois, c’est ça que je fais quand je suis là, pundu de rien, quelques salots, tu vois des choux verts, comme des petits, avec les saveurs, du concombre à la courgette, tu peux te servir dans le grand jardin, fais sauter les maïs, je fais ça sans réfléchir, j’y pense tout le temps, je goûte, je retourne ma langue dans son palais, avec le clinquant d’un miondosa ou l’amertume des choses pas encore mûres, ces oignons qui émeuvent, ces patates qui consolent, tu vois comme je fais, j’aime bien gratter, mille races pommes de terre, mille tubercules comme des bouts de soi, de doigts, je rigole hein, tu vois, je fais comme ça, comme les Princesses aux petits pois, je suis sel poivre et balançons quelques épices dans le nez, pas de produits chimiques, je dis pas biologique tout le temps, tu sais, ce que je veux, moi, c’est être là, avec ce qui se mange, et tout mon p’tit monde à moi qui cuit, qui vit, qui dit oui.&quot;"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – janvier 2012 - Mise en ondes par Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;Faut pas mentir, hein, ici, c’est la route ou pire, la rue, faut pas dire, tiens, y a un chemin- on peut marcher,-on peut avancer, on peut pas dire, tiens avance marche et cours, vas voir là-bas si j’y suis alors que c’est pas de la terre, c’est pas des cailloux ou même de la boue, c’est rien que du goudron, alors dire qu’on peut aller d’un point à un autre alors que c’est rien que du pétrole, du solide ou du visqueux, un truc qui fait mourir les grenouilles, les bleuets, ou même juste des clochards qui le fument le goudron pour faire passer le froid, alors, pas la peine de dire que l’asphalte, le bitume, c’est le progrès, hein, faut arrêter de dire des conneries pareilles que des vices, ce goudron qui sent le fond des corps, qui font sombrer dans des marées noires et humaines, annoncer que la ville de demain est celle qui mène des voies aux chemins, de fer ou pavés d’enfer, ça sert à rien s’il n’y a que du goudron pour défiler.&quot;"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – janvier 2012 - Mise en onde par Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;Je tue pas. Je donne du sens. Je tue pas comme ça en tout cas. Ce que je fais, certains diront il tue, bon, on peut dire ça et son contraire. Certains pourraient penser que je suis quelqu’un qui a des valeurs, que je suis quelqu’un qui sauve des gens et des bravoures, et puis, c’est par obligation, parce que tradition, famille, culture, enfin, toute une flopée de critères assez fondamentaux. Il ne suffit pas d’être violent ou typiquement cruel pour tuer, sinon, on vivrait dans un monde idéal plutôt salubre. Enfin, je crois qu’on tue parce qu’il y a trop d’autres. Je crois que je tue ce qui ne va pas avec moi, ce qui ne ressemble à rien de ce que je connais, ou ce qui ne convient plus, du genre, les gens en ont ras le bol, je me doute que c’est plutôt simple comme explication, mais y a parfois de telles évidences. Je tue pas pour dire, tiens, hop, ça suffit et c’est comme ça, je peux dire que je tue que si l’on pousse les choses hors contexte – ou mes nerfs hors des gonds. Ha, ha, ha. C’est une question d’émotion, aussi, un coup de surplus ou un coup de mou et hop, on vise pas loin, même un voisin. Enfin, ce que je veux dire hein, c’est qu’heureusement qu’il y a des gens comme moi, des gens qui agissent et qui font ce qu’ils disent, qui disent ce qu’ils pensent. Je suis intègre, disons-le.&quot;"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – janvier 2012 - Mise en onde par Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Oiseau. Qui est ta langue. Langue. Qui est ton bec. Bec. Qui est ton morceau de tête. Alouette. Qui est sur ta base des pattes. Pattes à pattes. Petites traces logogrammes dans une neige indolore. Tu as volé un fruit. Qui est ton droit. Droit. Tu l’as perdu, perdue. Tu as la tête haute. Oiseau. Tu as du rouge cassis qui déborde. Bec. Qui est ta langue pointue. Entends-tu tes petits piailler. Piaille de mal. Piaille de faim. Oiseau. Fruit défendu dans ton bec. À sec. Larcin malin. Petite pie qui vole, qui vole. Oiseau. Voles-tu"/>
+            <nbspace/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="? Ton fruit n’était pas à toi. Il était à l’arbre. À l’oiseau qui y avait fait son nid. Ou au marchand de fruit. Ce fruit, rouge comme la honte. Oiseau. Langue pendue. Jus qui goutte. À goutte. Bout à bout, tu fais l’oiseau. Ailes, plumes, bec, surtout le bec. Sans le bec, que serais-tu oiseau. Malheur… Ectoplasme"/>
+            <nbspace/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="? Reptilien"/>
+            <nbspace/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="? Pire… une poule. Oiseau, ne pense pas. Prends ce fruit et emporte-le à tes petits. Nid. Nid de brindilles. Fragile comme l’œuf. Oiseau, ne sors pas ta langue, ne fais pas corbeau, ferme ton bec sur le fruit, qui coule. Fonce à tir d’… vers. Oiseau. Qui est ton aile. Qui a des ailes. Tu es comme l’oiseau… ça vit d’eau pure… non, pardon. Vole. Ton fruit mûr au creux de toi."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – février 2012 - Mise en onde par Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;Venir de Lille. Prendre une autoroute européenne. Surveiller les nids de poule. Apprécier les lampadaires fréquents et allumés le long du chemin. Considérer le lion et le coq comme des symboles mythologiques éloquents. Répéter « l’union fait la force » dans sa voiture. Enclencher le clignoteur, non le clignotant. Faire un usage démesuré de son klaxon. Voir la direction Mons. La suivre. Tourner à droite. À 100 mètres, repérer que le panneau présente Bergen. Chercher Mons. Sortir à une sortie inconnue. Faire attention à ce que cette sortie ne s’engage pas sur une voie romaine ou une dead end. Descendre de son véhicule. Bien se couvrir. Découvrir le moyen de paiement surnommé Bancontact. Faire quelques emplettes à la station-service la plus proche (Biki, tartelette au riz, café au spéculoos). Reprendre sa voiture. Demander la direction de Mons. Tenter de comprendre un flamand qui n’écoute pas et qui mentionne Bergen. Comprendre un peu la réputation surréaliste de la Belgique. Rouler un peu. Voir direction Mons. Se réjouir. Tourner à droite. À 100 mètres, repérer que le panneau présente Bergen. Chercher Mons. . Répéter « l’union fait la force » dans sa voiture. Enclencher le clignoteur, non le clignotant. À 100 mètres, repérer que le panneau présente Mons. Ne pas se réjouir. Rouler un peu. Voir direction Bergen. Pleure un peu mais ne pas crier. Manger le biki et la tartelette au riz en une bouchée. Ne pas renverser le café même si vos mains tremblent. Ne pas sauter de sa voiture. Rouler un peu. Voir direction Mons. Hésiter. Décider de ne pas suivre les panneaux. Aller de l’avant. Rouler doucement en évitant les poules. Tourner à droite. À 100 mètres, repérer que le panneau présente Rijsel comme prochaine sortie. Y aller sans plus aucune envie de vivre. Croire reconnaître des bosquets. Penser que le monde est un trou noir. Tourner à droite. À 100 mètres, repérer que le panneau présente Mons. Ne pas tomber dans le piège. Continuer sans se retourner. Arriver à Lille. Vous êtes arrivés.&quot;"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – janvier 2012 - Mise en onde par Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;Naïma ne pensait pas, enfin, pas comme ça, ça débute toujours sur une erreur d’espace-temps ou un détail de l’histoire, là, on est dans la rue, on va chercher soit du pain ou de l’huile, soit du sucre, finalement, tu sors pour peu de temps, puis quelqu’un demande où tu vas. Naïma, comme quelqu’un d’autre, dit « ça t’intéresse pas », parce qu’on n’a pas à dire, on n’a qu’à faire, sauf que là, Naïma est retenue, même entourée, on lui dit, attends au bord, là parce que le Grand Guide va passer, tu salueras, tu crieras joie, Naïma ne pensait pas, quand la voiture est passée, une Volkswagen Coccinelle jaune suivie de quelques limousines aux vitres teintées, les gardes ont levé les bras, quelques fusils et des cris qui font loi, Naïma n’y pensait pas mais en guise de bras, elle a levé le doigt, son plus grand.&quot;"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – janvier 2012 - Mise en ondes par Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Poulets crus, boudins cuits, poupées rudes, vaches à lait, bouchrie un seul i, pas d’œufs, pas d’eux, pas de hic, pas d’panique, poulets verts, poupées gigognes, façon j’te cogne, abattoir un seul corps, spongieux mon"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="vieux, poulets d’vît, poulets frites, violons dingues, tire ton flingue, enlève tes fringues,"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="dis, tu as lu la Disparition de Georges Perec? le lipogramme, tu vois ce que c’est? poulet nuit gravement à la santé, poupées de cris, poupées de sons, vas-y mets-la lui, poulets aigre-doux, poupées en peaux douces, bouchrie de peaux d’ours, une demie livre d’américain non préparé, s’il te plait, non peut-être, dessine-moi un mouton halal, poulets laids, poupées brêles, aïd aïd aïd comme le chant du"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="couteau, accroche-toi à la file, embroche quelques filles, erses-toi, verse-toi dans moi, je suis ta baby"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="doll, ta chicken run, poule dans moi, poulets sans ailes, cuisses de poupées, tu dis oui ou tu"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="dis non, PULL PULL PULL la bouche rit évidemment, poulet n’est pas coq, poupée en cloque, mets la capote sur la"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="matraque, tape à plat, tape dans le gras,"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="poulet pourri sur poitrines fumées, sot-l’y-laisse sans vergogne, poupées gigogne, poulets"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="gigotent, grippe aviaire dans l’hémisphère droit, kyste aux ovaires dans l’hémisphère gauche, allô la bouchrie sans os? poulets frits, poupées fuites, putes à frire, poêle à fuir, tout est cuit, tout est pris, dis, mange ta croupe, bon sang… bon sang ne saurait mentir, tourne tourne en eau de"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="boudin, poulets blancs, poupées vaudous, et tu tapes tapes tapes, c’est ta façon d’aimer, adieu veaux, poulets, poupées, et que vivent les bouchries aux vitrines de poupées, vas-y"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="ma cocotte kot kot… poules de luxe pour poulets trente jours, Elle ou sa cuisse, pilons pilons"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="pilons les poules, et que vivent les bouchries aux devantures pour poulets moutons cochons, tous égaux au"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="poids, quoi t’entends pas qu’on frappe, écoute, t’es boucher ou quoi?? écoute le son des bouchries sans e, écoute, écoute… abat, aloyau, amourette, animelle, anticœur, araignée, avant-cœur, avant-lait, bavette,"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="bout-saigneux, carré, cimier, collet, collier, crépine, culotte, dénervage, éclanche, entre-"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="fesses, entrecôte, épaulée, équasillement, équasiller, estou, étourdissoir, filet, fras, fressure,"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="gigot, gîte à la noix, habillage, hampe, issues, joue, longe, mignonnette, mincerette, parage,"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="pendoir, persillé, pis, poitrine, psautier, quasi, réjouissance, rognonnade, saigner, sèche, soc,"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="souris, tende de tranche, tournedos, tranche, travers, trumeau."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – Janvier 2012 - Mise en onde par Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;Elle le sait, sa mère, sa grand-mère l’ont su avant elle. Elles ne lui ont rien dit, elles ne l’ont pas prévenue, même juste avant qu’elles ne commencent. Ce matin, elle était comme avant. Là, elle en est là, avec tout ce qui lui vient dans la tête, elle en aurait pour deux vies à récurer son mal. Elle n’ose descendre la main en dessous du ventre. Parce que les linges l’enrobent tels un linceul mortuaire, aussi, parce que les draps ont été remontés jusqu’à son menton. Parce que sa mère, sa grand-mère chantent, accompagnées d’autres femmes, tantes ou voisines. Elle n’ose battre des paupières. Leur langue scande la fierté dans une ferveur ancestrale. Ses mains ont tremblé, saisi les vêtements, piétiné le lit, sué dans leurs lignes, griffé l’air chaud. Elles sont à présent collées le long du corps. Au bout de ses bras, gardiens d’ébène flétris et flasques, rien ne bouge."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les posters sur les murs, les livres lus, relus, l’agenda avec la petite serrure et la petite clé, les jouets du petit frère qui traînent, tout ce familier devenu étranger en quelques heures. Elle entend les gens s’affairer dans la cuisine. Le repas entre amis et familles sera festif car l’événement est grand. Les femmes visitent, offrent un pan de tissu, un collier de cauris, des bijoux en or. Sa mère, sa grand-mère remercient, saluent, chantent, bougent, remuent, tournent, reviennent. Sa mère la regarde peu. Sa grand-mère lui sourit d’une bouche aussi large qu’un arbre. Elle pourrait sourire si elle savait pourquoi. Elle sait que l’ouverture entre ses jambes est à présent fermée, condamnée à n’être qu’un passage de fille à mère. Les femmes qu’elle aime, les femmes d’avant elle, elles ont l’air heureux. Elle ne sait pas encore que son plaisir sera dès à présent une quête jamais apaisée. Du haut de son palais suinte un goût ferrugineux, comme celui du sang qui descend. Elle entrouvre sa bouche.&quot;"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Milady Renoir – Janvier 2012 - Mise en ondes par Daniel Martin-Borret"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Puisqu'on venait à dos d'âne dans le grand Bruxelles pour vendre des chicons, parce que les chicons viennent d'Evere, ça c'est le pays du chicon. Et les cerises ça c'est de Schaerbeek. les cerises qu'on voit maintenant sans queue, si on en vend encore. Sans queue? Sans queue. Parce que les queues on les séchait pour faire du thé."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Qu'est-ce que vous savez sur la statue qui est à côté de la Place Liedts avec Nasreddin?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="A côté de la Place Liedts il y a une statue là, toi?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Oui, avec Nasreddin, un personnage turc qui monte à l'envers un âne."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ce n'est pas la Place Liedts."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Juste à côté c'est la rue Gallait."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ah oui, dans la rue Gallait, oui je sais."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Vous voyez la statue?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Oui, je la connais. Mais ce n'est pas une statue de Schaerbeek. C'est toute un histoire en turc."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Oui, c'est ça."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="il allait chercher après de ses enfants, mais comme il ne savait pas où les enfants étaient, il laissait conduire l'âne qui savait où c'était, lui il était à l'envers dessus. On me l'a raconté comme ça, je ne sais pas si c'est ça."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Oui, c'est ça, mais pourquoi cette statue là?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Parce qu'on est noyé en turcs."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Qu'est-ce qu'on est? Comment?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Noyés, tant il y en a. Des turcs, des maghrébiens, des nyien nyiens... tout ce que tu veux et de moins en moins de bruxellois."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est pourtant du flamand, ça, hein, een boet? Ja ja, een boete, ja ja. Een boet."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Dans le temps c'était: 'Alleman bediend? Tout le monde servi?' Da's gedoan."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ik zeg nog, in Brussel ga ge naar 't school in 't Frans of in 't Nederlands. Nu moete kieze. Negen op tien komde in de Franse school he. Et on dédaigne le flamand! Ik hem on men kleinkinderen gezeit: Kinnekes, luister wadda bobonne zeid, zie da ge goed uw nederlands leertin 't school, want da zal echt nodig zen. En ge zie wel dat 't woar is, hein. Mo da's over twintig joar da 'k ulle da gezeid hem, hein. Da's oek altijd Frans. Ma nu... Ze lezen wel in 't school in 't Nederlands, in Wemmel. Ge moet da ne kier huure. Voddenschil (???) sprekke ze. 'k Zou zegge, meer Nederlands as Frans. Mo ge verkeupt ze nie, hein, nie in t'ien, nie in 't ander!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="We spreken Frans."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ge zijt de enigste."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ge hebt gehoord, hein. Als ge Brusseleirs wilt, da's Thérèse en da's alles, hein. Niks an te doen, hein. Philippe, de jonge die do zit neffest mij, da's oek in Schoorbeek gebore. Da spriekt oek Frans, Nederlands, Duits en Engels. Mo, 't is raar da we kunnen Brussels spreken. Er zijn veel weurde dat hem en nie en kent. Une langue ça doit s'entretenir!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="[chante] Dat da nei nog moest bestoan, jan vermilk zijne gank nie goan, gruut worde da's is toch spaait, was ik nog in dijnen tijd. Ze kuste ma toch zo faain, och ik wauw nog klentjes zaain. Ak ik peis op Mie van Swas, kwaa dak nog een ketje was. Ca c'est chanter en Bruxellois."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Et quand j'étais petite, je pleurais. Je voulais aller voir ces ours dans cette cage! Et il n'y avait pas d'ours."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ca veut dire: est-ce que je peux passer?"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ca pousse dans le sol comme des pommes des terre."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="tous qui termine en 'beek' a quelque chose a faire avec l'eau"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="la seule chose je connais c'est le métro maelbeek"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Beek c'est rivière"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Beek c&quot;est la rivière sale"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="ça a avoir avec des moulins"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="c'est un ruisseau"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Beek c'est ruisseau, maal je ne sais plus"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="qui moud le grain"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="je vais encore chercher"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="c'était tellement dégoulasse"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="un fleuve Bruxellois qui se transformait en égout"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="j'en ai entendu oui"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ca pourrait être les gens qui habitent à Maelbeek. Le Maelbeek c'est la rivière de Schaerbeek."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Tous les mots qui finissent sur beek ..."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je sais que c'est maintenant le Maelbeek oui."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je ne sais pas moi, une commune?"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mael c'est moudre et Beek c'est ruisseau. C'est le ruisseau qui mouds parce que il y a beaucoup de moulins."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est une vallée qui a disparu."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est une rivière qui passe ici au dessous de Bruxelles quoi ..."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On avait un autre bourgmestre .."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Pareil que Le Pen"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le quartier où on était, il n'y avait pas beaucoup de Belges ... c'était Turques, Marocains .."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Du bon côté, on a toujours eu un bon contact avec des voisins, de ce côté-là ça nous plaît bien"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="qui s'y connaissent"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Tout le monde qui travaille sur le projet"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est tout ce qui a avoir avec le code, l'informatique, mais aussi le web, l'internet."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="qu'elles se plaisent vraiment bien, qu'elles se sentent bien"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Femmes Epanouies Actives"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Pas de mélange"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Non, là je crois qu'il voulait dire un flamand qui ne parle pas français, c'est pour cela qu'ils ont choisi l'anglais comme langue."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Que tu ne peux pas t'exprimer en français."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="A coté d'Algérie, à coté de Mauritanie"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Tu as deux définitions, tu as une définition des années 70, des gens en fait du début des sources libres, qui se disaient on a des produits propriétaires, mais on ne peut pas en communiquer, c'est pas facile, quand on veut les utiliser, il faut que tu achète ce truc. Donc ils créent une version libre et ils s'appellent hackers, eux-mêmes."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Hack en anglais c'est hacher, comme quelqu'un dans le bois qui hache du bois, c'est aussi utilisé comme terme pour un bon bricolage."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="c'est au sud de Madagascar, c'est indien"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Il a kotter dans ... comme un pensionnaire ... comme 'un kot'"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="logiciels libres"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En fait, le cd qu'on entend c'était pour notre prophète Mohamed à qui il a été dédié, offert à l'occasion de son anniversaire de naissance. Ce sont des artistes turcs qui ont chanté pour lui."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Chez nous on appelle la musique qui est en rapport avec la religion 'Anachid'. C'est vraiment un groupe de femmes qui chante des chansons sur le prophète. Beaucoup d'enfants dans les cours de religion islamique apprennent ça en français."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="'Frietkot' c'est une friterie"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est surtout parce que je trouvais presque tous les musiques très moches dans le téléphone, c'était un des seuls acceptables parce que c'était je crois le plus loin d'être une musique."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Etre épanoui, ébloui, émerveillé devant Lui"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est une autre langue, tu as le bon français, et le jargon c'est une langage spécifique."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Un tapis tricoté, brodé, tissé à la main par la personne."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Elle dit: dans ma culture le tapis veut dire l'amour, et je le fait pour toi, pour transférer mes émotions pour toi, c'est par le tapis que je le te veux dire."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Tu ne peut pas parler d'amour librement, ouvertement alors la manière pour te passer le message c'est par des couleurs, par tisser ce tapis."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je ne sais pas, les années septante, les longs cheveux, les bananas, les colliers..."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je ne me sentais pas chez moi."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Etranger, étranger, tant qu'on se connaît...éthiquement p.ex. je suis turque, je suis belge, politiquement je suis belge, il n'y a rien à dire, on ne peut pas dire que je suis turque, non, moi, deux semaines en Turquie et puis, c'est fini, c'est trop quoi, je ne me sens pas turque de ce côté là, mais.. et puis religieusement je suis musulmane et voilà je suis cette personne là, donc je ne suis pas étrangère."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On est tous étrangers."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est peut-être la définition du bruxellois, du zinneke"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On doit avoir de connaissance de 500 mots en néerlandais. Mais quels mots?"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Un espace dont je travaille."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Donc je suis née en Turquie, je suis arrivée à trois ans, j'ai toujours habité à la même adresse, à Bruxelles chaussée de Louvain, je suis tout près de St-Josse, je suis tout près de Schaerbeek, ce qui me truc ... ce qui me cause un petit problème, je suis dans une intercision, dans un carrefour entre Schaerbeek, St-Josse et Bruxelles."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le Conseil d'Administration d'une asbl."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est Femmes Epanouies Actives, parce que moi je tenais à un nom en français. Donc on avait un CA donc et on réfléchissait au nom de notre association. On a dit plein de mots, pleins de noms et tout ça, beaucoup en turc, et moi je tenais à un nom en français. une des membres, qui est espagnole, elle a dit, il faut en français et en turc, parce que vous avez quand-même un lien avec la Turquie. Vous êtes quand-même quelque part turc. Donc qu'est-ce qu'on peut faire pour avoir le lien avec le turc et le français. Feza en turc a une signification qui veut dire espace, pas l'espace de local, l'espace où il y a les étoiles, les galaxies et tout ça. Alors on s'est dit quoi en français? Alors femmes épanouies actives. Et qu'est-ce qu'on fait du 'z'? Ah ben, on fait le lien, femmes épanouizzzzactives."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est institutrice maternelle."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Pain gris."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Comment tu dis au revoir chez toi?"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Juf c'est le diminutif de 'jufvrouw', ca veut dire 'madame', mademoiselle .."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="les flics à l'envers."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="les keufs, c'est les flics."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Systeme d'Echange Local"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les vers de terre"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ce sont des nouvelles poupées mis* en vente, avec des grosses têtes, le corps est un peu plus petit, la tête est mise en valeur, de couleur."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le kilim, c'est comme le miroir du coeur et c'est la traduction des paroles. Parfois c'est hassed, c'est hassed qu'il dit, quand tu as quelqu'un que tu n'as pas vu depuis longtemps, il te manque."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est plutot triangulair, comme la guitarre."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="c'est la chanteuse aussi. Mais c'est plutôt la chanson. C'est une chanteuse qui explique sa vie dans sa série, parce qu'elle a une série pour les jeunes enfants. Dans la série, elle incarne une jeune fille qui est policière mais qui est également super héros."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ce n'est pas quelque chose qui est moderne. C'est très vieux, avec les vêtements, avec les maisons d'antan. Et ça a réussi à capter l'attention des jeunes, avec l'histoire de cette jeune fille qui en secret est une héroïne, et elle le cache. Elle est amoureuse de son collègue policier mais elle ne pas lui dire qu'elle est une héroïne. La seule personne avec qui elle partage son secret c'est son grand-père."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est le même mot."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On dit, il faut s'intégrer, ça veut dire, tendre un certain modèle. Mais c'est quoi ce modèle? Il ne me convient pas, parce que moi je ne suis ni pure marocaine ni pure belge - entre guillemets, je n'ai pas des parents, grand-parents, arrière-parents belges. Je suis pas catholique ni protestant, je suis musulmane, ce n'est pas pour ça que je ne suis pas citoyenne belge et schaerbeekoise et fière de l'être. Moi, je suis un morceau comme ça, un morceau comme ça, c'est ça qui fait ma personne."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le mot intégration ça fait référence à un modèle et qu'on attend des gens qu'ils soient le plus proche possible de ce modèle-là."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est la désintégration, de me désintégrer, comme le noyau qui, c'est pas nous quoi, on doit être comme dans un moule et tout."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je déteste ce mot parce que intégration ça nous a tellement... revenu sur nous. Intégration c'est turcs et marocains, pourtant ici il y a allemands, il y a flamands, il y a je ne sais pas. L'intégration c'était surtout turcs, marocains, africains. On n'a jamais pensé aux allemands, aux espagnols, aux italiens."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="J'ai une remarque. En fait quand on parle des marocains ou des turcs, c'est vrai qu'on rajoute toujours d'origine turque ou d'origine marocaine. Par contre on ne dit jamais d'origine italienne, espagnole, on ne prononce jamais les autres origines. C'est un questionnement."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ca s'est passé avant."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Quand j'entends des personnes d'un certain âge qui sont venus après la guerre, ils ont connus les mêmes problèmes que nous, parce qu'on les traitait de macaroni et des choses comme ça."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ils utilisent le mot dans des buts bien précis, le mot intégration, nous on ne l'utilise pas entre nous, les politiciens l'utilisent."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Personnellement, en tant que musulmane pratiquante, le mot intégration auquel je suis confrontée, c'est le port du voile, c'est vraiment le seul obstacle qui se pose à moi pour l'instant. Surtout pendant les entretiens. je suis calée à cause de ça."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="des morceaux collés qui viennent de différentes origines, des morceaux de tissus qu'on assemblait et ça faisait un objet, une pièce"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est difficile à expliquer, il faut faire très attention."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est un mot que tout le monde dit à tort et à travers."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Quand on dit que quelqu'un est intégriste."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Il ne sait pas s'adapter pas facilement?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Qu'il impose ses idées?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Il s'impose à soi-même, tu vois."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Radical?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je dirai radical aussi, tu as des gens qui suivent le coran ou les principes du prophète, alors ça veut dire que l'homme peut mettre un pantalon long mais il doit le mettre en bas de la cheville, ça c'est un, la barbe, tu vois, ils laissent pousser la barbe."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mais ce n'est pas des obligations."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Il y a la charia et la sunna, moi, je ne connais pas très bien."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est des extrémistes, ce n'est pas des extrémistes, c'est des radicaux."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Des radicaux on dit seulement pour des musulmans?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Non, on dit cela aussi pour des chrétiens, pour des skinheads, il y a des intégristes flamands, des intégristes francophones, mais des chrétiens on ne les voit pas souvent."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ici non, mais aux Etats-Unis oui."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Radical c'est plus, quand on dit que quelqu'un est radical, c'est comme ça et comme ça."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Oui oui, bien sûr."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mais c'est pas parce que le crédit il est illicite et que certains théologiens l'ouvrent pour certaines familles, quand vous avez six enfants et il n'y a personne qui veut vous louer parce que vous avez six enfants, et que vous avez la capacité d'acheter, il y a certains théologiciens qui ouvrent, qui travaillent sur certains versets, plus larges, et d'autres qui disent non, le prophète a dit que c'est comme ça, il n'y a pas de crédit. Voilà, alors c'est les radicaux, pas de crédit, pas ça, pas ça, pas ça, mais on est au 20e siècle, he."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="21e siècle :-)."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Tu peux chercher une baguette et un pain français, ils n'ont pas le même goût. La baguette; elle dure longtemps, sans être sec. Par contre le pain français, le lendemain il est un peu ... Mais le premier jour c'est du pain vraiment agréable. Surtout les baguettes jaunes. Ils ont la couleur jaune à l'intérieur. Impeccable."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Oui il y a la différence .. les baguettes sont plus petit* et plus longs*. Et les pain français ils sont courts mais plus grands."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Boding .. c'est le corps ou quoi? -- ça vient de 'Pudding' -- Pudding, boding -- c'est un mélange de plein de choses en fait."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les boulangers ils font ça avec tous les restes, des couques, du pain, des raisins qui sont marinés dans le rhum."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Un grand pain, mais il n'y a pas beaucoup de grammes dedans, ça pèse pas, comme un paquet de chips, un kilo de chips c'est rien."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Oui il y a une différence, les baquettes sont plus petites et plus longues, les pains français sont plus courts mais plus grands."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Tami, c'est du pain, dans la langue SuSu de la Guinée."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mot pour le pain dans la langue Kinyarwanda."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les Berbères du Rif, du Maroc, parce qu'il y a trois sortes de Berbères. Les Berbères ce sont les premiers habitants du Maroc. Il y a des Schleus, des Touaregs, des Rifs et on appelle la langue qui existe Tamazirte, c'est un mélange de tous les langages Berbères. Voilà ce sont les premiers habitants du Maroc qui sont venus du Yémen, en passant par l'Egypte. Ces gens-là sont issus d'un mélange, il y avait des Européens, c'est un mélange de langages."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est des restes de pain, on a ajouté du rhum dedans."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est fait avec quoi? Il y a des oeufs? Des oeufs, du sucre et de la farine."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Elfotor c'est le matin."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ca va? Nous sommes des êtres humains, alors il faut qu'on vive ensemble. Heureusement maintenant on se comprend mieux qu'avant. Quand on est arrivé ici en Europe, avant j'entends le mot 'étranger' et tout ça et je dis: &quot;qu'est-ce qu'ils mangent, est-ce qu' ils sont comme nous?&quot; Maintenant, et nous remercions notre créateur de l'univers, on s'entend bien, on va arriver à s'entendre et vivre ensemble parce que nous sommes des êtres humains. Nous avons le même créateur. La différence qu'il y a c'est qu'il y a des gens qui n'ont pas fait des études et tout ça, des ignorants mais on va arriver un jour à vivre ensemble. Je suis très fier de vivre ici en Belgique. Les Belges sont des braves."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En langue arabe classique ça s'appelle 'Fatira'. Fatira vient du mot 'fotor' ça veut dire le matin, déjeuner. Fatira, une. Fatirat en pluriel."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est un genre de cramique, craquelin avec de la frangipane. Ca prend beaucoup de temps pour le faire. C'est le premier jour de la semaine pour nous et on n'a pas vraiment eu le temps de le faire."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="c'est des crêpes marocaines"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Makla c'est la nourriture en berbère. Tout ce qu'on mange."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je pense que c'est la forme, il y en a beaucoup qui pensent que ça ressemble à un miroir."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est le pain traditionnel blanc qu'on coupe pour faire des tartines pour donner aux enfants le matin pour leur déjeuner."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est eux qui ont créé ça, de Malmédy."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="batteur-mélangeur, ça sert à - le mot le dit - 'battre' et 'mélanger' des crèmes et des pâtes, vous avez ici un petit batteur de 5 litres et à côté vous avez son grand frère de 30 litres, le même principe, seulement c'est des cubes plus grandes."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est pour mettre ses outils, ses brouettes et tout, parce que sinon ça disparaît, c'est pour avoir tout son matériel sur place."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mettre de fumier, du composte, du fumier de vache, tout, comme ça avec les pluies de l'hiver, c'est bien aéré, ça rentre dans le sol et quand la saison commence il y a déjà de la force dans la terre - engrais chimiques non, rien que du fumier de vache et du composte."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Un produit contre les vers, le produit que j'ai mis parce que j'ai des petites bêtes, c'est contre les vers et les champignons du bois, mais pas contre les araignées, parce qu'il y en a pleins!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En italien, on l'appelle la Zappa. C'est une chose avec la pointe là, qu'on tire et on fait une ligne. Après on sème dedans. On l'utilise aussi pour reboucher la terre de gauche à droite."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Râteau en italien"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On met le pied dessus et on retourne la terre en profondeur, 30 cm même plus."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On fait la péperonnade, poivrons, tomates, et courgettes."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On achète du naturel, bio. Sinon ça ne vaut pas la peine de faire le potager. Alors on va acheter déjà. Alors tout ça pousse vite avec les airs et tout. Ici il faut attendre le moment venu."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ca veut dire Au revoir"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Et au revoir? Au-revoir c'est B-əs-slâma."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="mettre du fumier, du compost, du fumier de vache, tout..."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Juste vert comme ça, ça mettre de l'eau chaud, un peu comme ça, après mettre quelque chose; moi, toujours faire à la maison, comme ça faire, mettre la casserole, cuire, manger."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Non"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On le met avec le poulet, la viande, le poisson et comme thé c'est bon aussi, j'en plante beaucoup ici."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est du thym."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="c'est comme oui"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Presque patate mais pas patate, ça se mange comme ça"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On a mis ça dans un seau, on a versé de l'eau, parce que c'est un poisson salé. Deux, trois jour après le sel est parti, on a changé. On le fermente pour permettre à ceux qui n'ont pas le temps de l'acheter et de cuisiner directement. Le nom c'est macayabu."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Si tu arrives quelque part, tu trouves une grand-mère ou un papa, tu lui parles en français, il ne comprend pas. Tu lui dis &quot;salot&quot;, là il comprend que c'est la salutation. Parce que la salutation en Afrique c'est comme un dette, tu es obligée de saluer quelqu'un."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ca c'est le gombo, c'est un légume, qui quand on le découpe c'est gluant. L'appellation chez nous [au cameroun] l'appellation générale c'est le kalin kalin."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le manioc est un grand aliment qui produit ces tubercules. ça nous donne la farine, ça nous donne la pâte, et ces tubercules on les mange comme ça. Et ces feuilles de manioc nous donne tout ce dont on a besoin."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="ça c'est toujours le manioc mais à la camerounaise. C'est comme le pain qu'on a fait des petites formes, et nous on l'appelle &quot;miondosa&quot; en patois de la langue camerounaise des régions côtières."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le foufou se retrouve dans toutes les régions de l'Afrique. C'est du manioc qu'on transforme en poudre, on va faire un peu comme la semoule."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est un légume amer. On le retrouve plus au Cameroun et au Nigeria sous l'appellation &quot;ndolé&quot;."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est ça qu'on appelle ndolé. On le lave, ça prend beaucoup de temps pour la cuisine et la préparation. Parce que les feuilles sont amer. Il faut les laver longtemps, changer l'eau après avoir laver. Pour la cuisine, il faut avoir les cacahuètes blanches pour faire bouillir le ndolé. Les nigériens l'appellent le bitalif. Après avoir bouilli, il faut mouliner et mettre trois épices l'ail, l'oignon, le poivre. On peut ajouter du poisson, de la viande et la ça te fait une spécialité qu'on appelle ndolé, et c'est très bon."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Si on le cuit simplement comme ça, c'est pas facile à manger, c'est comme si ça blesse la langue. Il faut ajouter là à côté l'épinard, pour que ça devienne un peu très doux à la bouche. Il y a plusieurs formes de les préparer. Les congolais quand ils préparent ça ils peuvent ajouter la pâte d'arachide. Les camerounais quand ils préparent ça ils peuvent seulement ajouter de l'huile rouge, et on va le manger soit avec de la semoule soit avec du foufou - on va appeller ça du wata foufou, sous plusieurs formes."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On concasse, on peut le cuir en graine, on peut la rendre en pâte, et ça on en fait le gâteau, qu'on peut manger avec de la banane plantain, avec du macabo, avec des ignames, du manioc aussi. Beaucoup de nos enfants aiment ça parce que c'est très succulent à la bouche. On mélange avec l'huile de palme, du sel, et pour ceux qui mangent épicé, on ajoute du piment, on emballe dans une feuille. C'est très agréable à voir, parce que ça reçoit une couleur jaune. Et puis on accompagne, on peut manger avec du saumon et des tartines."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le pundu c'est les feuilles de manioc."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En Ingala, on l'appelle makemba, Au Cameroun on l'appelle banane plantain tout court parce qu'on parle plutôt le français. Mais dans mon patois on dit kolo."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Personne ne pouvait être heureux vraiment. C'est vraiment dans le sang. On dit d'un frioulan la chose suivante: &quot;on n'a pas besoin de le pousser au travail parce qu'il se tue tout seul&quot;."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On a aussi une langue qu'on parle entre nous, qui est le frioulien, une langue rhéto-romane."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les français vont dire que ça vient de Nimes, parce que Denim."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mais si on parle de ça aux italiens, ils vont dire que ce n'est pas vrai du tout. Ca vient de jeans, qui est Gênes, et c'est de là que partaient les toiles pour les États-Unis. Les toiles, le jeans, qu'on connaît encore aujourd'hui, il semblent qu'il ait été crée au 17ème siècle au Frioul."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Chez nous au Frioul, on dit la mère-langue, la marilengue. On a l'impression qu'elle s'en va et elle va s'en aller comme beaucoup d'autres, tous les ans il y a je ne sais combien de langues qui disparaissent dans le monde. Et la nôtre va disparaître également. Mais je suis tellement attaché, je me suis dit que s'il en reste un, et bien je serais celui là. Je suis un peu le dernier des friouliens comme le dernier des mohicans."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En Russie il y a les pelmenis, qui sont les tortellinis en somme avec des farces, de la viande, etc..."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les pelmenis, c'est le nom des tortellinis en Russie."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Au Frouil il y a des noms très spécifiques. Par exemple, ma mère s'appelait Agostinis - en italien ce serait Agostini ou bien Agostino, qui serait plutôt un prénom. Avec la s à la fin, c'est toujours un frioulien."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ovaro, c'est la ville de ma mère, de ma tante, c'est dans les montagnes. En frioulien, ça devient Davâr."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Qui sont des tortellinis avec de la confiture dedans et du raisin sec suivant les recettes."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="La base c'est &quot;Som&quot; qui vient du nom que j'avais avant, Sommaskini, et puis l'officier de l'état civil qui aimait peut-être les arts, il a mis &quot; arti&quot;, Sommarti."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Société de mannequin artistique"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En frioulan, on dit frice. Cela c'est tellement courant que pour dire, quelle belle fille, c'est bien le frice."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les flamands ont raison de dire que ça vient de manneken, &quot;petit homme&quot;. Un petit homme ou une petit femme miniature qui était utilisé par les couturiers."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Cela pourrait venir aussi de l'italien, qui utilise le mot mannekino, qui est une manche qu'on met sur un bras."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Prenons un mot qui est en trois langues: Tumieç en frioulan, Tolmezzo en Italien, et Tomkind (ou Tomkins) en allemand."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les italiens n'en démorderont jamais, ils vont toujours dire et prétendre que les spaghettis, les tortellinis et toute la pasta est née en Italie et un point c'est tout. Mais non!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le Frioul ça vient de Forum Iulii, le forum de Jules César. C'était un endroit de passage entre l'Italie des romains et le nord de l'Europe."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Güçlü ça veut dire fort."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="nǐ hǎo"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Y'a un mur où la question c'est la femme en un mot. Donc y'a pleins de post-it de couleur où les gens ont mis un seul mot et le mot que je préfère c'est oufti. C'est une interjection plutôt wallonne qui veut dire &quot;houla, non de dieu!&quot;."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Sororité c'est les congrégations de filles dans les universités américaines comme les fraternités mais c'est la version femme, féminine des fraternités étudiantes."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Çiçek, fleur, Çiçek ça veut dire fleur. C'est nous qu'avons fait les vénus, construit les poupées. C'est quoi c'es femmes - il me pose des questions - j'ai dit Madame cefaragin c'était Çiçek fleur ça veut dire."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Y'a un mur où la question c'est la femme en un mot. Donc y'a pleins de post-it de couleur où les gens ont mis un seul mot et le mot que je préfère c'est oufti. C'est une interjection plutôt wallonne qui veut dire &quot;houla, non de dieu!&quot;."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le pied, le pied. La femme en un mot, la réponse c'est le pied."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Une femme ça représente beaucoup valeur, même chez moi au Congo, on appelle toutes les femmes mama. Mama c'est une mama, mama Marie, mama de Jésus, tout le monde on l'appelle mama. Nous les femmes nous sommes des mamas. Nous sommes très valeur, parce qu'en-t-il n'y a pas de femmes il n'y a pas d'enfants. C'est nous qui fait les enfants!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Une femme ça représente beaucoup valeur, même chez moi au Congo, on appelle toutes les femmes mama. Mama c'est une mama, mama Marie, mama de Jésus, tout le monde on l'appelle mama. Nous les femmes nous sommes des mamas. Nous sommes très valeur, parce qu'en-t-il n'y a pas de femmes il n'y a pas d'enfants. C'est nous qui fait les enfants!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Pour nous féministe c'est un petit peu trop fort mais moi je voulais vraiment l'égalité les femmes et l'homme. Donc c'est pas seulement féministe. Féministe pour moi ça veut dire les femmes plus fort que l'homme, c'est vrai non? mais moi je voulais comme Mao Zedong dit, moitié-moitié, les femmes et l'homme égales. Tous les deux est bon. Mais maintenant les femmes c'est un petit peu moins bon que l'homme, ça c'est dommage."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On peut être féministe à partir du moment où on est autodidacte de, où on peut donner des ordres soit-même à son corps, on n'est pas influencé par personne, on nous impose rien. Donc oui pour moi il signifie quelque chose. Je suis une féministe engagée même si je porte un foulard, je suis autonome, libre de faire ce que je veux. Mais effectivement je crois qu'on peut être féministe en défendant les femmes de toutes les origines quelles que soit leur culture et leur histoire en faite. Et pas leur imposer une vision monolithique de la société telle qu'on la conçoit."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Il n'y a pas un mot spécial pour dire bonjour mais on dit Chào."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="ça dépend, on ajoute toujours quelque chose après. Salut mais salut qui? Si je te salut je te dit bonjour mademoiselle! mais si je vois une femme, je dis un autre mot. Je dis Chào cô parce que tu n'es pas encore mariée. Mais si je dis Chào à une autre dame je dis Chào bà, tu vois. Si je dis Chào à un homme marié je dis Chào ông! à un jeune homme pas encore marié je dis? . Tu vois quand on parle on voit les hiérarchies. Si la personne est jeune âgée, un vieillard. Quelque chose comme ça."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je n’étais pas plus haut que trois pommes"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Lorsque je suis arrivé à Bruxelles"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Sous le pont de la gare"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="La gare du midi"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le temps était gris."/>
+            <para PARENT="expla"/>
+            <ITEXT CH="Bruxelles terre d’accueil"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles terre d’asile"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles ma ville."/>
+            <ITEXT CH=" "/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le premier jour de l’école"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je n’ai pas compris le professeur"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Il parlait français un langage étranger"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Qui fut le mien. J’ai compris que je n’étais plus dans mon pays"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mais ici à Bruxelles où je suis un étranger."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Dans un nouveau monde avec son temps et sa culture"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Différents des miens. Bruxelles terre d’accueil"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles terre d’asile"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles ma ville. Plus de quarante ans ont passés"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je suis toujours à Bruxelles"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Où j’ai fait ma vie J’ai acquis plusieurs cultures"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les unes sont aussi riches que les autres"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Et j’en suis satisfait . Bruxelles terre d’accueil"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles terre d’asile"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles ma ville. Rien ne m’est plus étranger"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je suis un maroco-bruxellois"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Un ketje de brousselles"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Un zineke magraibin. Bruxelles terre d’accueil"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles terre d’asile"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles ma ville Bruxelles terre d’accueil"/>
+            <para PARENT="expla-indent"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles terre d’asile"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles ma ville."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="quand vous rencontrez quelqu'un dans la rue, et vous êtes avec votre amie et vous voulez lui dire que cette personne est gentille, dê thương, cette personne est aimable. Pour sympathique on va dire aussi dê thương."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Quand on parle entre nous, qu'on fait un commentaire d'une personne qui part, dê thương, aimable! Ou bien des enfants qui sont venus chez vous, après qu'ils soient partis, dê thương, parce qu'ils sont sages! Voyez! C'est ça ce que ça veut dire dê thương."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Allochtone ça veut dire une espèce importée récemment. Je ne suis pas une espèce importée récemment."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="A propos des Belgo-Marocains qui vivent le problème de la complexité de la double appartenance, ils ne sont ni Belges, ni Marocains...moi sincèrement, je ne voudrais pas être à leur place. Je ne voudrais pas être née dans un pays, y avoir grandi et que l'on me dise: &quot;Tu es étrangère&quot;. Et quand je retourne dans le pays d'origine, je me sens aussi étrangère. Finalement, la question que je me pose c'est: &quot;Lequel des deux est mon pays?&quot;"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Zenga? c'est une petite maison comme ça en bois."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Une chanson. Ils ont fait avec le Waka Waka de le mondial sud Africa, la chanson de la coupe du monde de Shakira. Ils ont remixé la chanson Waka Waka de Shakira avec le zenga zenga."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Y'a les banqueroutes pour dire qu'on a plus d'argent"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="La daronne, le daron qui veut dire papa maman."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Des mots assez vulgaire comme din din fuck qui veut dire va te faire foutre ou ce genre de bazar."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Baby-foot, hein."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Pour dire les voitures, y'a les cars, les droms, la tek. Y'a pleins de syllabes qui sont mélangées entre l'arabe, le français. Plusieurs langues mélangées en un en fait."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Tek, c'est la voiture"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mbila, ça veut dire la police, les poulets"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mbote qui veut dire bonjour."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les mots qui sont utilisés pour les femmes, ce sont les momies, les petites faciles à garer, de ce genre."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Y'a les gos, y'a les ponts, y'a les momies, y'a les faciles à garer, les smarts, ... Y'a les spots, les lumières, y'a pleins de mots. une jolie femme, le grand spot on va dire plutôt, ou on va dire regarde la go, ou regarde la bombe .. ou la momie, le vrai mot ici c'est la momie, quand c'est une vraie belle fille, c'est la momie, ou une haila, ça c'est en arabe. une hayla, ça veut dire c'est ma meuf, c'est une meuf."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Nsango nini, Comment ça va, comment tu vas?"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Y'a le QG pour dire l'emplacement où on est, par exemple la banlieue, la cité."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ralek, qui sont les bêtises."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Un sac de frappe, un putching ball, plusieurs sortes, mais ça c'est une sac de frappe. C'est grand, 1mm50, 60, et c'est souvent rempli de sable ou comme celui ci de mousse, tu vois c'est de la mousse à l'intérieur, assez épaisse."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les Schmitt, la volaille, la flicaille, je ne sais pas moi. Les poulets, les condés, les flics."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Chick, ça j'avais pas capter quand je suis arrivé à Bruxelles. Toi tu connais? les chicks?! Au début, on me dit les chicks, quoi de quoi tu parles?! Il me dit des meufs, des meufs! Ah, là j'ai fait la liaison, parce que les chicks ça fait penser à un objet, j'avais jamais entendu chicks."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="une chick c'est une gonzesse toute mignonne, une gonzesse bien taillée au niveau des formes, des hanches au niveau de la silhouette sans doute, quelque chose comme ça."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Par exemple moi si je réfléchis au mot qui ressemble le plus à chick, c'est une chique, genre un chewing gum. Un chewing gum c'est quelque chose que...quand quelqu'un en a un, tu veux souvent en avoir un. Avec un t'en a jamais assez, il t'en faut toujours au moins deux dans ton paquet. Quand t'en as plu il t'en faut blinder. On peut aller loin! Et puis en général c'est sucré, tout le monde aime le sucré. C'est quelque chose qui ne coûte rien, c'est pas comme manger un bonbon où après tu l'as dans ton estomac, ça passe dans ton tube digestif et après ça te fait grossir. Une chic quand ça a plus de goût tu la jettes. C'est peut-être pour ça qu'il l'appelle une chick? je ne sais pas."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Un beau gars quoi. Un beau garçon, un beau gars. Un beau brindille, une bonne semence...un bon bâton, on utilise plusieurs termes. Un beau brun, un beau rebeu, un beau renoi."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="MZI, m z i, le Ministère des Zones Irradiées."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Alors, en faite, nous sommes en 2013 et suite à l'incident nucléaire de l'année dernière en France et à celui de Tillange le mois dernier, y'a plus de nourriture non-contaminée. Donc pour obtenir des tickets de rationnement de nourriture non-contaminées, il est nécessaire d'obtenir un passeport du MZI, c'est un nouveau ministère qui a été créer pour gérer la crise nucléaire. Voilà la situation est bien en main, je pense que la population ne doit rien craindre, tout est sous contrôle."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="OKUP en serbo-croate ça veut dire rassemblement à l'origine et c'est devenu notre nom en tant que collectif. On a hérité de ce nom d'une association qui était plus dans l'organisation de festival et on l'a conservé depuis qu'on s'est transformé en collectif artistique. On le garde toujours parce qu'il reste fidèle à nos envies d'investir les territoires de la rue, différents types d'espaces urbains, pas forcément la rue, parce que des fois on était plus dans des territoires à la périphérie de la ville ou des quartiers un peu délaissés et qu'on avait envie de requestionner, certains types de fonctionnement, certaines formes d'architecture, certains modes d'usage. Notre idée de rassemblement autour de ça, c'était de travailler parmi les gens, des fois travailler avec, des fois en questionnant et de transmettre nos questions vers ce public là. Des questions qui sont souvent liées à pourquoi les choses fonctionnent comme ça, en reliant à un territoire plus global. On a fait des billets de dollars imprimés sur des hosties. Des billets à manger.ca soulevait pas mal de questions, de manger directement l'argent. Donc de faire comme une raccourci du système: l'argent qu'on a besoin de gagner pour finalement arriver à se nourrir et par rapport à aujourd'hui une course effrénée à la consommation. Et on l'a élargi à un questionnement plus proche par rapport à ce qu'on vivait ici, en tant qu'artistes qui reçoivent des subventions pour faire un travail sans aucun devoir de compte-rendu, aucune attente d'exposition. Et donc on a voulu aller directement demander aux gens s'ils avaient des attentes vis-à-vis des artistes qui sont subsidiés et donc qu'eux même subventionnent quand ils payent leurs impôts. C'était donner à la fois ce matériau, ce billet à manger, pour la simple réaction qu'il peut provoquer chez les gens; on est allé à la gare du Nord, habillées en working girl avec nos badges écrits artistes, demander aux gens est-ce que vous voulez manger vos impôts? C'est crée ce raccourci de consommation et en même temps avec ceux qui étaient disposer d'entrer dans une conversation quelles attentes ils pouvaient avoir vis-à-vis d'artistes subventionnés. C'était intéressant parce que sur les quelques conversations qu'on a eu ça retombait sur la liberté de faire ce qu'ils veulent, sans contraintes, par rapport à des fondations privées, d'avoir une vraie liberté de réflexion et de pouvoir prendre une certaine distance par rapport à notre réalité ou la société dans laquelle on vit."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les artivistes? Y'avait l'idée que je m'en faisais avant d'en rencontrer. Et celle que j'ai maintenant après avoir eu un week end de travail avec un collectif qui s'appelle les artivistes qui est basé à Bruxelles. Et finalement les deux se rejoignent assez. C'est-à-dire que c'est une pratique intéressante par rapport à des questionnements qui sont liés à l'engagement, et comment les transformer et les manifester dans une forme qui soit plus inventive et plus créative et du coup qui décale les enjeux, les habituels manifestations des activistes. Je vois surtout la manif en faite. Quoique il y a aussi le fauchage des champs d'OGM, pleins d'autres manières d'intervenir, mais ce que je trouve intéressant chez les artivistes, c'est de mélanger ça à des forme du type canular, comme la manif de droite aussi. Ils essayent vraiment de ne pas donner toutes les clefs mais de donner l'envie aux gens de comprendre ce qu'il y a derrière une apparence qui pose question, ou c'est juste un truc exacerbé de la réalité comme la manif de droite, c'est sur-amplifié et jusqu'à l'absurde. Le fait de les gens de droite donc plus conservateurs iraient dans la rue pour manifester leurs opinions, avec toutes leurs requêtes etc. Je trouve ça intéressant de voir que des gens tombent dans le panneau et à la fois ce qui se sont fait prendre au piège, après quant ils réalisent le truc, ça crée un décalage en plus, une envie de comprendre plus profonde. Les actions des artivistes? Ils vont intervenir dans des forums, des manifestations des lobbys, et ils se s ont font passer pour. C'est pour renvoyer aux gens qui sont directement concernés l'absurdité de ce qu'ils font, ou le caractère vraiment dérangeant de ce qu'ils font sans considération pour l'humanité au sens large."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="J'ai travaillé...J'ai commencé comme tailleur ici. Tailleur. Puis j'ai travaillé à la Sabena. J'ai fini ma carrière à la Sabena. Sabena? L'aéroport. J'ai travaillé là-bas comme garnisseur. Voilà! ma carrière a terminé à la Sabena."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Il s'appelle Las Vegas. Las Vegas c'est un magasin, un grossiste plutôt en boissons, tout ce qui est boissons, confiserie, bonbons, chocolat. On fait du tabac, des alcools, de la bières aussi. On a plusieurs sortes de variétés, on fait des livraisons, dans le quartier à Schaerbeek, à St-Josse, aux communes aux alentours."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En fait si vous voulez, Las ça veut dire je suis d'origine de la turquie. Las ça veut dire de là d'où je suis. J'ai mis Las Vegas, ça rimait bien. On est de TrabZon plutôt, mais on nous surnomme des Las. Et alors je me suis dit Las Vegas ça rime. C'est le seul mot qui rimait en français, où j'estimais que ça allait bien."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Comment les marocains du Maroc nous perçoivent? Nous sommes les vacanciers de 28 jours, nous sommes la rougeole parce que la plaque belge des voitures est rouge et blanche. Donc voilà la rougeole qui arrive. Il y a aussi la butane à gaz. Du fait que quand on arrive au Maroc, on va chez soi, la première chose qu'on achète c'est du butane à gaz. Donc voilà il y a plein de termes comme ça, amusant, il faut prendre ça au deuxième ou troisième degré. C'est vrai que nous ici nous avons plusieurs cultures. Et quand on va au pays, il y a la culture marocaine. On est confronté avec notre pluralité, à une culture qui est toujours présente, la culture marocaine qui est toujours au Maroc présente, et nous on va là-bas et c'est vrai qu'on se sent vacancier. Et on fait tout pour qu'on nous montre que nous sommes des vacanciers. Si on dépasse un certain temps et bien il y a suspicion. Qu'est-ce qui se passe? Pourquoi il reste plus longtemps que les 28 jours des vacances accordées? Voilà. C'est tout ça le pays."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les boromites, c'est un surnom qu'on donne ici aux gens qui s'inventent des vies. Comme on est des boromites, on va s'inventer des vies. Moi je ne suis pas des gens comme ça; On a une vie pourrie, il veut changer de vie. On s'invente une vie future, on fait pas comme les autres. Tu peux te mettre dans n'importe quelle situation. S'inventer une vie, c'est rêver. C'est construire aussi des nouvelles choses. On est toujours dans la réalité. (enregistrements réalisés dans le cadre des ateliers Micro-ondes. Merci à Hervé Brindel et Cécile Michel)"/>
+            <para PARENT="expla-indent"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Machino, ça veut dire la machinerie. C'est les machines. C'est tout ce qui est construction pour la caméra. Déplacement de caméra, position de caméra, que ce soit sur voiture, sur hélicoptère, au sol sur pied, c'est ça et trouver la solution pour pouvoir faire des déplacements de caméra."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En français, machinerie c'est plus machine, mais en anglais ça explique mieux. En anglais ou en américain, moi je ne parle que wallon et un peu le français. Key Grip Systems, c'est la clef de la pince grip, donc la solution du problème. Donc on doit trouver une solution pour que ça fonctionne pour le déplacement caméra, que ce soit heu ... n'importe quel déplacement quoi ou la position caméra ou éventuellement ou comme ça arrive souvent, quand on met un projecteur à 8m de haut, et bien on doit monter soit un échafaudage ou mettre une grue. Enfin le plus passionnant c'est quand même d'installer la caméra et la déplacer...voilà...que ce soit sur un hélicoptère, une bagnole... Key Grip Systems, KGS, c'est comme cela qu'est appelé le plus gros loueur ici en Belgique, Key Grip Systems."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je suis rifains, habitant du Rif, et j'ai débarqué avec mes parents dans le paquebot à cette époque. C'était un paquebot. On prenait les voitures sur une plaque et une chaîne, on les faisait tomber dans la cale. Et il y avait aussi des chambres passagers. Et je suis venu en bateau, je suis allé jusqu'à Malaga, de Malaga on a pris le train jusqu'à Madrid, Irun. Et le train d'Hendaye jusqu'à gare du Nord, euh, la gare St Lazard. On a pris le taxi de la gare St Lazare à la gare du Nord, en France, à Paris. On est arrivé à la gare du Midi, il faisait brumeux, frais, il y avait du brouillard, et la première fois que je voyais un tram! Et quand je suis arrivé je me demandais si j'étais en train de rêver! Qu'est-ce que je fais ici? est-ce que c'est vrai ou c'est mon imagination? Les gens étaient gentils, accueillants. Les belges je les aime, c'est pour ça que je suis aussi belge. Je les aime pour l'accueil qu'ils nous ont fait. Pour leur bonté, leur générosité. Aujourd'hui ça va mal, mais avant c'était mieux. Dans cinq minutes, on vous donnait directement du travail, si vous ne connaissez pas vos droits, on montre vos droits. Actuellement c'est différent. Y'a des tensions qui règnent, y'a la politique, y'a un tas de choses. Je suis devenu belge et fier de l'être, je suis devenu belge par amour et par devoir, ça veut dire que si on fait du mal à la Belgique, on fait du mal à moi aussi. Vive la démocratie, vive l'occident, vive la Belgique!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les Bérets Rouges, chez nous, on les appelle les forces de l'ordre. C'est des gens le plus souvent qui interviennent en dernière position et quant ils sont là, c'est le sang qui coule. C'est des gens très dangereux."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les Bérets Rouges, pourquoi on les appelle? c'est une unité qu'on appelle comme ça au pays. Y'a les gendarmes, y'a les Bérets Rouges, les Bérets bleus, ça c'est l'armée de l'air, y'a les Bérets verts, ça c'est la gendarmerie ou l'intendance."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le CMNR qui veut dire le Comité Militaire de Redressement National."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le CNND qui veut dire Conseil National pour la Démocratie et le Développement."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On a beaucoup de mots comme ça. Donc pour dire au revoir beaucoup de gens disent au revoir ou Mengi dem"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="On dit Mengi dem. Mais par exemple au Sénégal on a beaucoup de mot francais donc y'en a qui disent au revoir."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Chanson roumaine - C'est tout. C'est notre coeur. Sur le coeur. On veut changer notre coeur. Nous on aime Jésus et on le chante."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Chez nous, on a une spécialité qui s'apelle thieboudienne, qui veut dire en français riz au poisson. Pour le préparer, il faudra un bon poisson et plusieurs légumes dedans. On fait cuir, rissoler les oignons, et puis mettre de l'ail, frire le poisson, mettre à part et puis on ajoute de l'eau, et les légumes beaucoup de légumes. des carottes, choux, Tous les légumes qu'on veut on peut les mettre dedans; à part après avoir mis de l'eau, on laisse bouillir pendant quinze minutes, puis verser le riz dedans. C'est ça qui fait riz au poisson et c'est très bon"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le RPG, Rassemblement du Peuple de Guinée, qui c'est fait appeller l'Arc-en ciel."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Eza, c'est juste le petit mot comme ça. Bon, Eza c'est en lingala é, z, a. &quot;C'est&quot;, &quot;être&quot;, qui montre une présence, une présence de possibilités. L'exemple du collectif Eza Possible : c'est possible. On ne sait pas ce qui est possible mais du moins c'est possible. Aujoud'hui c'est devenu plus ou moins un concept,, un cri de guerre, une croyance, d'arriver à un résultat et c'est vraiment ça."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Eza, c'est ici maintenant ou c'est ici là-bas, c'est ici chez, dans cette pièce là, c'est ici dans une heure, à 5 minutes à pieds, et y'a pas de doute. Y'a ce côté là et aussi dans l'avenir. On y croit. Mais c'est toujours &quot;c'est&quot;, &quot;c'est là&quot;, &quot;c'est possible&quot;, &quot;c'est dans pas longtemps&quot;, &quot;c'est chez moi&quot;, &quot;c'est&quot;, &quot;c'est&quot;, &quot;c'est&quot;... Je ne suis pas linguiste, hein!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="- C'est quoi smeks?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="- C'est en fait quelqu'un qui vient du Maroc, qui est né au Maroc, qui est resté peu de temps au Maroc, et puis il est venu ici, et il est pas, enfin, il a toujours l'accent, en fait."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="- On est tous des smeks ici. On est tous d'une descendance. Ma grand-mère comment elle est venue ici? Ta mère comment elle est venue ici? Extraits de l'émission Les flamands #2 - réalisée par les Boromites"/>
+            <para PARENT="expla-indent"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="- Un rolloto, par pure définition, c'est un maghrébin qui est né en Europe."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="- Les rollotos, c'est des purs marocains qui foutent la merde."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="- Un mec qui part pas à l'école, qui préfère glander même si il peut y aller à l'école, qui reste comme ça dans la rue, à fumer, quelque chose comme ça - il fout la merde et tout ça."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Tu vois le mot kilim? Le monsieur il est turc. Kilim! Kilim? C'est quoi? Kilim c'est un tapis. Les grecs, ils disent aussi kilim. Toutes façons les européens, ils vont venir chez les turcs, droits de l'homme, droits de mort(?), tout ce que tu veux, ça viendra chez les turcs. Oui mais les turcs ils ont un pied en Orient et en Occident."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Kalimera. du mot kali - bon et mera- jour. Kalimera"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Comme philanthrope. antrop, antropos qui veut dire le mot homme, philos (ami), ami des hommes."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Comme misanthrope, misos (haïr). Antropos (l'homme), la haine de l'homme. Voilà, la dérivation des mots grecs vers la langue française et la langue universelle si on peut dire. Du côté du continent européen bien sûr."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bleddar est aussi un mot péjoratif, encore fort utilisé par les jeunes d'origine maghrébine. Et on parle de bleddar, pour parler de quelqu'un qui vient du pays, qui vient d'arriver en Belgique et qui est dans des difficultés, financière ou autres, mais c'est vraiment plus parce qu'il vient du pays. Mais...voilà."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Smeks, on l'utilise pour plus dire qu'une personne est en difficulté financière, de précarité même...Souvent c'est une personne qui vient d'un pays étranger. C'est fort utilisé dans la communauté maghrébine, par les jeunes d'origine maghrébine. Donc ça voudrait dire une personne qui vient du pays d'origine notamment le Maroc, l'Algérie et qui est en situation difficile, de précarité."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bayangi, la langue Bayangi de Cameroun"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ik woon hier vlak in de buurt en dit is een manier om mijn buurt te leren kennen"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Thuis, mij ergens goed voelen op mijn gemak en het gevoel te hebben van thuis te komen"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Dat kan vanalles zijn, de dag is mooi, feit dat we samenkomen en lachen, dat is ook mooi, en linzensoep is ook mooi, vandaar"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Er zit hier overal zoveel energie in de lucht, zoveel vibraties, eigenlijk is dat nog mooier; het is levendig, dynamisch, een en al leven, goeie vibraties"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="ça veut dire c'est délicieux en arabe"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="ça veut dire que j'aimais bien la soupe avec un goût que j'aimais très bien, he, c'est tout"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="La soupe au chocolat c'est une sorte de crème de chocolat chaud et... je ne peux pas donner toute la recette comme ça!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est un gateau avec du chocolat, des framboises et rien d'autre"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Une envie de satisfaire une odeur qu'on ressens,... la faim c'est plein de choses, ça peut être un sentiment, un vrai ressenti et manger ensemble"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Grote verscheidenheid aan mensen hier, en ook culturen, en dan met betrekking tot de keuken, de producten die ik hier heb leren kennen. Ik kom dus van een heel ander gebied uit België, waar het veel meer allemaal hetzelfde was als hier in Brussel, specifiek hier in de wijk... mengeling van culturen, smaken, gezichten..."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est la multiculturalité qu'il y a ici chez nous, les italiens, espagnols, marocains, tout ça je trouve ça super qu'on s'entende tous. C'est dommage qu'il y a des guerres partout, mais chez nous ça va, on s'entend bien."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bruxelles c'est un endroit très agréable pour la rencontre. Pour rencontrer les gens de tous les pays. On dit cosmopolitain? C'est ça! tu vois ça? On a l'impression qu'on est ailleurs, on n'est pas en Belgique! C'est différent qu'en France. En France, tu vois que les français. Peut-être que tu vois quelques autres mais pas autant comme ici. C'est vraiment différentes couleurs. C'est vraiment un tapis, un beau tapis."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le but c'est de faire d'une part de la prévention au niveau de la santé, donc il y a d'une part les soins, il y a des médecins généralistes qui travaillent là, mais d'autre part on essaie vraiment d'apporter cette accessibilité à la population du quartier par rapport à la prise en charge de leur santé et de leur bien-être, parce que pour nous quelque part c'est lié, on peut être en bonne santé, mais le bien-être est aussi important."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est par rapport aux activités qu'on apporte, souvent on lie la santé au curatif, ne pas être malade, mais le bien-être c'est aussi au niveau psychique, de se sentir bien, alors pour ça on propose notamment, par rappor tà la santé mentale, la possibilité de rencontrer une psychologue, c'est par rapport aussi à la prise de conscience de son corps, travailler le rapport qu'on a avec l'alimentation, c'est aussi le contact corporel par le massage, voilà c'est toutes ces petites choses-là."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Maison Médicale, c'est le nom d'une fleur qui a donc des propriétés médicinales, elle pousse partout, ici aussi, une belle petite fleur jaune-orange, si vous l'avez dans votre jardin, vous la retrouvez chaque année."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je sais que de la fleur on produit de l'huile essentielle, des savons, des produits de beauté, et puis certains médicaments, là je ne sais pas plus, quoi. Il faudra chercher un peu!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="[explication du jeu en espagnol]"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Es un juego. El partchis se juega en español como bien que lo sabéis. Se juega a cuatro personas. Hay cuatro casas, la azul, la amarilla, la verde y la roja. Y para sacar una ficha, cada vez que quieres sacar una ficha, tienes que hacer un cinco. Si estás cerrado, ... con el dado está cerrado. Si sacas un seis tienes que abrir, estás obligado de abrir. Y... si alguién por ejemplo, cuando matas a una persona, juegas veinte. O sino, cuando ganas una ficha, en vez de jugar veinte, juegas diez. Es un juego español y como todos los españoles y todas las cosas españolas, son juegos divertidos y es un juego muy bonito, quoi. Et voilà quoi. En espagnol."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="- Muchas gracias."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="- De rien."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="- Et je crois il ne s'est pas présenté?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="- Je ne me suis pas présenté désolé. Je m'appelle Azdine. Je viens d'Espagne. J'ai vécu là-bas douze ans et ça fait 5 ans que je suis ici. Et puis voilà."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est un jeu espagnol. C'est les espagnols qui l'ont crée. Maintenant y'a presque tous les arabes, tous les espagnols, y'a plein de gens qui jouent à ce jeu. C'est un jeu amusant. On joue avec 4fic hes pour chacun. On a 4 maisons de couleurs différents. Voilà, le jeu consiste à si on a un cinq, on sort la première, la maison c'est ici c'est chez moi par exemple, le deuxième 5 je dois encore ressortir, avec le 6, si je suis fermé par exemple, je dois ouvrir. Par exemple s'il est là, j'ai un 1, je tue, j'avance à 20. Il faut faire rentrer toutes les fiches à la maison, une fois que par exemple celle là elle est en 4, si j'ai un 4, j'enlève et il faut qu'il est tout les 3 il sort aussi et c'est là qu'on a gagné. Aussi on peut jouer à 8, pour chacun, c'est la même chose, mais c'est plus difficile, il faut un peu plus de temps, si par exemple il y a le bleu avec le jaune, là le jaune avec le vert, le vert avec le rouge. Ca dépend si on est à deux. Pas besoin d'être à quatre, si on est à deux on peut jouer à 8 fiches, par exemple si tu choisis cette maison, je prends les verts et les rouges, si t'es ici tu prends les rouges et les bleus, ici les bleus et les jaunes, ici les jaunes et les verts. Et puis comme il vous a dit, avec chaque 6 tu dois ouvrir, tu es obligé d'ouvrir. Par exemple si tu as deux fiches à toi, par exemple ils sont tous les deux à moi, si j'ai un 6 je dois ouvrir c'est obligé. Pour sortir à chaque fois qu'il faut sortir il faut un 5. Et une fois que tu as toutes les 4 fiches ou les 8 fiches dehors, à chaque fois que tu as 6, tu joues 12 au lieu de 6. Une fois que tu as les 4 fiches de même couleurs, dehors, mais sinon tu joues 7. Par exemple si j'ai une dehors, que je ne l'ai pas encore fait sortie, j'ai qu'a joué un 6. Mais si je suis fermé, je dois ouvrir. Obligé. Voilà, c'est un jeu qui est amusant."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le logo de l'ultra ça veut dire, enfin, c'est une vision entre le lion et le diable. Le lion c'est le symbole de l'équipe nationale du Maroc, qui s'appelle le Lion de l'Atlas. Le diable c'ets le symbole de l'équipe nationale belge; les Diables Rouges. Et comme chez nous ici, les jeunes supportent beaucoup et l'équipe nationale du Maroc et l'équipe nationale Belgique, ils ont crée ce qu'on appelle l'Ultra-Maroc-Belgique. Ils les suivent sur le terrain quant il y a moyen. Les jeunes ont eu l'idée de créer un logo pour se rassemblement. Quelqu'un a proposer une fusion entre le Diable, symbole de l'équipe nationale Belgique, et le Lion symbole de l'équipe nationale du Maroc."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="L'objectif de l'Ultra? ça vient de notre petite philosophie de notre association; c'est rapprocher les jeunes d'origine marocain, des belges, des belges de souche et des européens. Et aussi de les faire s'intéresser aux cultures et aux sports belges, de créer un esprit citoyen. A travers le sport, on essaye de rapprocher ces jeunes, comme j'ai dit, de la culture et du sport belge, de les sensibiliser par rapport aux questions de citoyens et de l'intégration."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="L'ultra, ce qu'on veut dire par ça, c'est qu'on est des marocains, d'origine marocain, et on est en même temps belge, et alors pour nous ce pays adoptif, c'est comme soit notre père ou notre mère; choisir entre père et mère on ne peut pas, c'est trop dur. Ce qu'on peut dire même qu'on est d'origine marocain, on est aussi des belges; comme je viens d'entendre là le monsieur qui dit &quot; c'est par amour et par devoir&quot;. ca veut dire, nous aussi on a choisi la Belgique comme pays d'accueil, et la Belgique nous a bien accueillis, acceptés, alors on est Belge par amour, et par devoir ça veut dire on doit bouger, faire quelque chose pour la Belgique. C'est-à-dire participer si on peut dire dans la machine, du train d'avance, du développement de la Belgique. C'est très difficile de choisir entre le père et la mère, pour nous c'est très difficile de choisir entre le Maroc et la Belgique. On aime la Belgique et on aime aussi le Maroc."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Aujourd'hui c'est la journée mondiale de la femme, ça montre en fait la valeur de la femme et on aimerait bien montrer ça. La femme ne doit pas être enfermée chez elle, la femme elle peut se mettre en avant, partout! elle a la même valeur que l'homme parce qu'on peut travailler, on fait tout pour sa maison, comme l'homme. Donc la femme a de la valeur, il faut montrer ça."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Les ânes ça vient d'où ici? C'est quoi les histoires? Pourquoi il y a des ânes? C'est la mascotte? Non, ça ne vient pas de là. Ca vient tout simplement parce que quand... je remonte très loin, hein, au moins cent deux cents ans, la rue Royale Sainte-Marie, devant l'Eglise Saint-Marie, devant la Maison Communale de Schaerbeek, ça c'est la rue Royale Saint-Marie, c'était tous des cerisiers. C'était la campagne, hein, ici. Et quand les paysans de Schaerbeek allaient avec leurs cerises au marché de Bruxelles, le bruxellois disait, d'anen van Schaarbeek, D'ezels van Schoorbeek komen over."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mada's geen echte Brusseles, he, want as ze Nederlands spreekt, is het van Gent."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Wanneer is iemand een echte Brusseles? Brusselaar?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Die neffest mij zit, Jaqueline."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Mo ze spreekt nie veul, weeel, nie veul. Mo zis oek in Schoorbeek gebore. Philippe..."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="In Schaarbeek geboren zijn, is niet genoeg. Ge moet ook in Brussel blijven wonen zijn? Want degene die van Gent is, is wel in Brussel geboren?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Nu ja, ze is terug gekomen en ze is in Brussel blijven wonen."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Maar voor u is dat geen echte Brusseles."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Parce qu'il fût un temps qu'il y avait des grillages autour et on avait l'impression que c'était une cage."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Lugha en arabe c'est pas la meme chose. C'est pour manger."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est en turc, en français c'est 'est-ce que je peux passer?'"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="3sortes"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="abdubulasak, mot inventé par enfant"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est mon père qui m'apprend, sa maman elle est français et son papa il est espagnol."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Je sais compter jusque dix en néerlandais."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="en espagnol"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="j'ai compté en espagnol, je connais"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Dat is de naam van een café op de Place de Pavillion."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="(C'est le nom d'un café sur la Place de Pavillion)"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Wat zou dat kunnen betekenen? eeh Stop dat allemaal!"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="(ca pourrait dire quoi? eeh Arret tout ça!)"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="&quot;cestquoica&quot;"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="jenesaispasquellelangue"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="marocainsabxl"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="migration"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="pascaquivavousetonner"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="quellelangue"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="questcequunmarocain"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="toutcestbeau"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="nomdemagasin"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Bayangi, la langue Bayangi de Cameroun"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Ma langue maternelle? Bamoun!"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="chenilles"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Le Bamoun, ca s'apprend à l'école? Non. Peut-etre quand on fait des cours publics."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="C'est la ou on a l'opportunutié d'apprendre. Et comment vous appelez ca? La doctrine? Oui? C'est quoi exactement?"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Poisson fumé. En Afrique on fume avec le feu. Le bois. Comment on le prépare?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="on le mouille dans l'eau, on le lave, on le fait bouillir. C'est quelle type de poisson? C'est un poisson qui vient du Congo."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="nom en farsi"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="lemot"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="je sais lire mais ... je ne sais pas qu'est-ce que ca veut dire"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="La c'est un magasin Marocain, mais le nom est écrit en Rif, la langue vous voyez? C'est une langue très dure, ce n'est pas comme l'Arabe."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="J'ai compté en arabe."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="jenesaispas_lettresarabes"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Calzo en russe ça veut dire que c'est une bague."/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="[needs edit]"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="En arabe qu'est-ce que vous dites?"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="Cage? Ca veut dire kafaz."/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="turc [needs to be added]"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="vendim = la place en albanais"/>
+            <para PARENT="expla"/>
+            <para PARENT="expla"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="4" CH="la place"/>
+            <trail PARENT="expla"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="126.75" YPOS="60.75" WIDTH="231.375" HEIGHT="1131.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 231.375 0 231.375 0 231.375 0 231.375 0 231.375 1131.75 231.375 1131.75 231.375 1131.75 231.375 1131.75 0 1131.75 0 1131.75 0 1131.75 0 1131.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 231.375 0 231.375 0 231.375 0 231.375 0 231.375 1131.75 231.375 1131.75 231.375 1131.75 231.375 1131.75 0 1131.75 0 1131.75 0 1131.75 0 1131.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="La Langue Schaerbeekoise récolte les mots utilisés par les différents groupes de population autour de la Cage aux Ours. Le projet veut favoriser la cohésion sociale entre différentes communautés tout en faisant entendre la richesse linguistique présente autour de la Cage aux Ours. L’arabe, le turc, le berbère, le néerlandais, le bruxellois, le swahili, l’espagnol, le polonais ne sont qu’une sélection de la variété de langues qui assaisonnent le français, la langue courante du quartier. Le dictionnaire de La Langue Schaerbeekoise est nourri de ces influences, il est ouvert au changement, flexible et organique. Le projet se déroule autour de la Place Verboeckhoven, aka la Cage aux Ours, entre 2009 et 2012.    "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="Het project De Schaarbeekse Taal verzamelt woorden die door verschillende bevolkingsgroepen rond de Berenkuil worden gebruikt. Het doel van het project is om de sociale cohesie tussen de verschillende gemeenschappen te bevorderen door de rijkdom te weerspiegelen van de talen die worden gesproken rondom de Berenkuil. Naast Frans, de gemeenschappelijke noemer, voegen het Arabisch, Turks, Berbers, Nederlands, Brussels Swahili, Spaans, Pools en veel andere talen hun smaken toe aan de taal die je hier op straat hoort. Het woordenboek van de Schaarbeekse Taal absorbeert die invloeden. Het is veranderlijk, buigbaar en organisch. Het project speelt zich af op en rond het Verboeckhovenplein, aka de Berenkuil, tussen 2009 en 2012.  "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="De woordenverzameling staat online op de website www.deschaarbeeksetaal.be. Daar vindt u ook alle informatie over de activeiten die tot nu toe plaatsvonden rondom de Berenkuil. Zo was er de 'Woordenwinkel' waar filmscreenings, luistermomenten werden georganiseerd; Er waren wandelingen en ontmoetingen samen met de bakkers, jonge hiphoppers, vrouwenorganisaties en culturele verenigingen in de buurt. Samen met bewoners en kunstenaars maakten we radio-uitzendingen over de verzamelde woorden. Op basis van de woorden werden nieuwe gedichten, audio-remixes en korte verhalen gemaakt."/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="La collection de mots est disponible en ligne sur www.lalangueschaerbeekoise.be. S'y trouve : "/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="→ Toutes les activités qui ont lieu principalement autour de la cage aux ours. "/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="→ Le Magasin de mots où des projections de films et des sessions d'écoutes sont organisées, et des promenades, rencontres avec des boulangers, des jeunes hip-hop, des organisations culturelles et de femmes du quartier. "/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="→ Avec les habitants et des artistes, des émissions radio où des poèmes, des mix audio et des nouvelles ont été produites avec les mots rassemblés. "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="* 1 capture d'écran du dico "/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="* 1 photo evenement "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="Zin om mee te doen? Dat kan. Op 12 Mei 2012 is er bijvoorbeeld de 'Schreeuw van de Berenkuil' met kunstenares Delphine Auby. Zij schreeuwt berichten van bewoners de straat op. Surrealistisch, aandoenlijk en ontluisterend. In september van dit jaar verschijnt het 'Woordenboek van de Schaarbeekse Taal'. Een handzaam boekje met de beste woorden uit de databank. Schrijf u alvast in voor een exemplaar via de website. "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="Vous en faire une idée? C'est possible. Le 12 mai 2012, l'artiste Delphine Auby propose la &quot;Criée de la Cage au Ours&quot;. Elle donne à entendre les messages des habitants dans la rue avec son mégaphone. Surréaliste, émouvant et détonant. En septembre 2012 parait le livre de la Langue schaerbeekoise. Un livre de poche présentant un choix de mot de la base de données. Demander votre exemplaire sur le site."/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="Langue Schaarbeekoise est un projet de l’asbl Constant.  Equipe : An Mertens, Clémentine Délahaut, Peter Westenberg.  "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="De Schaarbeekse taal is een project van Constant vzw. Team: An Mertens, Clémentine Délahaut, Peter Westenberg.  "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="Contact: "/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="www.deschaarbeeksetaal.be - www.lalangueschaarbeekoise.be "/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="clementine@constantvzw.org "/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="tel: 02 539 2467 "/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="www.constantvzw.org "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="* Logo Constant "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="Het project wordt mogelijk gemaakt door financiële steun van het Brussels Hoofdstedelijk Gewest in het kader van het Wijkcontract Navez-Portaels. "/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="/ "/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="Le projet de La Langue Schaerbeekoise est possible gràce au support financier de la Région de Bruxelles-Capitale dans le cadre du Contrat de Quartier Navez-Portaels.  "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <ITEXT FONT="Limousine Medium" FONTSIZE="10" CH="* logo Gewest * logo gemeente * logo Renovas Constant wordt ondersteund door: De Vlaamse Gemeenschapscommissie De Vlaamse Gemeenschap * logo VG * logo VGC "/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <para LINESP="12"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
